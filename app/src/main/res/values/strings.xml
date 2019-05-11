@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">kota_110_Android_Dev</string>
+    <string name="home">Home</string>
+    <string name="list_wisata">Wisata</string>
+    <string name="buat_catatan">Catatan</string>
+    <string name="list_catatan">Perjalanan</string>
+    <string name="akun">Akun</string>
 </resources>
