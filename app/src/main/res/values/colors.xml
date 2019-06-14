@@ -9,6 +9,7 @@
     <color name="textColor">#5D5D5D</color>
     <color name="gold">#ffd700</color>
     <color name="blue">#0000FF</color>
+    <color name="blue_light">#418AF2</color>
     <color name="colorBorder">#EAEAEA</color>
     <color name="colorbackgorund">#fafafa</color>
 </resources>

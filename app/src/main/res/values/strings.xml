@@ -5,4 +5,10 @@
     <string name="buat_catatan">Catatan</string>
     <string name="list_catatan">Perjalanan</string>
     <string name="akun">Akun</string>
+    <string name="nama_catatan"><font size="13dp">Nama Catatan</font></string>
+    <string name="posisi_awal_keberangkatan"><font size="13dp">Posisi Awal Keberangkatan</font></string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="jam_buka_tutup">Jam Buka / Tutup</string>
+    <string name="fasilitas">Fasilitas</string>
+    <string name="cari_rekomendasi">Cari Rekomendasi</string>
 </resources>
