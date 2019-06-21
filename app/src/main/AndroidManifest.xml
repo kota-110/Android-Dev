@@ -27,6 +27,7 @@
         <activity android:name=".view.layout.detailWisataView"/>
         <activity android:name=".view.layout.mapView"/>
         <activity android:name=".view.layout.addWisata"/>
+        <activity android:name=".view.layout.mapPerjalananView"/>
     </application>
 
 </manifest>
